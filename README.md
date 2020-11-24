@@ -4,9 +4,9 @@
 
 ## I'm a Student, Developer, and Learner!
 
-- 🌱 I’m currently learning React Native and Statistical Method.
-- 👯 I’m looking to collaborate with other React developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning React Native and Statistical Methods to evaluate Data and ML models.
+- 👯 I’m looking to collaborate with other React developers.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I wrote my first computer program when I was 14!
 
 
