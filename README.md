@@ -4,7 +4,7 @@ I'm an undergraduate Computer Science and Biology Dual Majors student with a Min
 
 ## I'm a Student, Developer, and Learner! 
 
-- 🌱 I’m currently learning React Native and Statistical Methods to evaluate Data and ML models.
+- 🌱 I’m currently learning React Native for cross-platform development and Statistical Methods to evaluate Data and ML models.
 - 👯 I’m looking to collaborate with other React developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I wrote my first computer program when I was 14!
