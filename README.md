@@ -1,10 +1,9 @@
-### Hi there, I'm Aditya 👋
+### Hi there, I'm Aditya 👋 I'm an undergraduate Computer Science and Biology Dual Majors student in my fourth year.
 
 [[LinkedIn Follow]](https://www.linkedin.com/in/aditya-agarwal-b5443614a/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xadityax&hide=Jupyter+Notebook)](https://github.com/xadityax/github-readme-stats)
 
-## I'm a Student, Developer, and Learner!
+## I'm a Student, Developer, and Learner! 
 
 - 🌱 I’m currently learning React Native and Statistical Methods to evaluate Data and ML models.
 - 👯 I’m looking to collaborate with other React developers.
