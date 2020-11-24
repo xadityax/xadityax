@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya - aka [codeSTACKr][mail] 👋
+### Hi there, I'm Aditya 👋
 
 [![LinkedIn Follow]](https://www.linkedin.com/in/aditya-agarwal-b5443614a/)
 
