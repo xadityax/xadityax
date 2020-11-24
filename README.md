@@ -1,9 +1,6 @@
 ### Hi there, I'm Aditya 👋 
 I'm an undergraduate Computer Science and Biology Dual Majors student with a Minor in Data Science, currently in my fourth year. You will find a variety of completed and semi-completed projects in my repositories. I have explored a small array of fields in computer science and continue to do so! Some of the work relates to my research and corporate internships. 
 
-
-### I'm a Student, Developer.
-
 - 🌱 I’m currently learning React Native for cross-platform development and Statistical Methods to evaluate Data and ML models.
 - 👯 I’m looking to collaborate with other React developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
