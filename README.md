@@ -1,6 +1,5 @@
 ### Hi there, I'm Aditya - aka [codeSTACKr][mail] 👋
 
-[![mail]](f20171075@hyderabad.bits-pilani.ac.in)
 [![LinkedIn Follow]](https://www.linkedin.com/in/aditya-agarwal-b5443614a/)
 
 ## I'm a Student, Developer, and Learner!
@@ -34,3 +33,6 @@
 
 <br />
 <br />
+
+[instagram]: https://instagram.com/xaditya_x
+[linkedin]: https://www.linkedin.com/in/aditya-agarwal-b5443614a/
