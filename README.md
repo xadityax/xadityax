@@ -1,6 +1,5 @@
-### Hi there, I'm Aditya 👋 I'm an undergraduate Computer Science and Biology Dual Majors student in my fourth year.
-
-[[LinkedIn Follow]](https://www.linkedin.com/in/aditya-agarwal-b5443614a/)
+### Hi there, I'm Aditya 👋 
+I'm an undergraduate Computer Science and Biology Dual Majors student with a Minor in Data Science, currently in my fourth year. You will find a variety of completed and semi-completed projects in my repositories. I have explored a small array of fields in computer science and continue to do so! 
 
 
 ## I'm a Student, Developer, and Learner! 
