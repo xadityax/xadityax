@@ -2,7 +2,7 @@
 
 [[LinkedIn Follow]](https://www.linkedin.com/in/aditya-agarwal-b5443614a/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xadityax&hide=Jupyter Notebook)](https://github.com/xadityax/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xadityax&hide=Jupyter+Notebook)](https://github.com/xadityax/github-readme-stats)
 
 ## I'm a Student, Developer, and Learner!
 
