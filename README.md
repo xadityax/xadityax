@@ -2,6 +2,8 @@
 
 [[LinkedIn Follow]](https://www.linkedin.com/in/aditya-agarwal-b5443614a/)
 
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=xadityax)](https://github.com/xadityax/github-readme-stats)
+
 ## I'm a Student, Developer, and Learner!
 
 - 🌱 I’m currently learning React Native and Statistical Methods to evaluate Data and ML models.
